@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Tech
+
+🌱 Passionate about cutting-edge technologies in Computer Science
+💻 Exploring latest tech releated to AI
+🔍 Focused on Data Science
+🚀 Always eager to collaborate on exciting projects and share knowledge!
+
